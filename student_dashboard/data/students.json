@@ -1,0 +1,1002 @@
+[
+    {
+        "studentId": "ST001",
+        "name": "Upma Bhalla",
+        "email": "upmabhalla704@gmail.com",
+        "phone": "4995152939",
+        "department": "CE",
+        "year": 1,
+        "cgpa": 7.89,
+        "attendance": 71
+    },
+    {
+        "studentId": "ST002",
+        "name": "Fitan Boase",
+        "email": "fitanboase332@gmail.com",
+        "phone": "09258941921",
+        "department": "ECE",
+        "year": 3,
+        "cgpa": 9.24,
+        "attendance": 88
+    },
+    {
+        "studentId": "ST003",
+        "name": "Ekantika Nadig",
+        "email": "ekantikanadig589@gmail.com",
+        "phone": "4403179940",
+        "department": "ECE",
+        "year": 2,
+        "cgpa": 8.98,
+        "attendance": 85
+    },
+    {
+        "studentId": "ST004",
+        "name": "Caleb Som",
+        "email": "calebsom724@gmail.com",
+        "phone": "9338657422",
+        "department": "CE",
+        "year": 2,
+        "cgpa": 7.35,
+        "attendance": 70
+    },
+    {
+        "studentId": "ST005",
+        "name": "Dev Nath",
+        "email": "devnath173@gmail.com",
+        "phone": "0988782618",
+        "department": "CSE",
+        "year": 4,
+        "cgpa": 9.37,
+        "attendance": 93
+    },
+    {
+        "studentId": "ST006",
+        "name": "Ekantika Goyal",
+        "email": "ekantikagoyal257@gmail.com",
+        "phone": "+916398816323",
+        "department": "ME",
+        "year": 2,
+        "cgpa": 8.55,
+        "attendance": 77
+    },
+    {
+        "studentId": "ST007",
+        "name": "Nirja Nigam",
+        "email": "nirjanigam581@gmail.com",
+        "phone": "4647125679",
+        "department": "CSE",
+        "year": 3,
+        "cgpa": 5.88,
+        "attendance": 92
+    },
+    {
+        "studentId": "ST008",
+        "name": "Gabriel Bedi",
+        "email": "gabrielbedi855@gmail.com",
+        "phone": "+915017047413",
+        "department": "CE",
+        "year": 4,
+        "cgpa": 6.46,
+        "attendance": 71
+    },
+    {
+        "studentId": "ST009",
+        "name": "Qabil Rajagopal",
+        "email": "qabilrajagopal67@gmail.com",
+        "phone": "+917104126177",
+        "department": "ECE",
+        "year": 3,
+        "cgpa": 8.68,
+        "attendance": 61
+    },
+    {
+        "studentId": "ST010",
+        "name": "Charles Rajagopalan",
+        "email": "charlesrajagopalan63@gmail.com",
+        "phone": "00799195861",
+        "department": "CSE",
+        "year": 3,
+        "cgpa": 9.79,
+        "attendance": 89
+    },
+    {
+        "studentId": "ST011",
+        "name": "Yasti Dara",
+        "email": "yastidara824@gmail.com",
+        "phone": "00828650382",
+        "department": "CSE",
+        "year": 1,
+        "cgpa": 7.07,
+        "attendance": 61
+    },
+    {
+        "studentId": "ST012",
+        "name": "Daniel Sarraf",
+        "email": "danielsarraf940@gmail.com",
+        "phone": "8286289174",
+        "department": "CSE",
+        "year": 1,
+        "cgpa": 8.1,
+        "attendance": 100
+    },
+    {
+        "studentId": "ST013",
+        "name": "Sara Raghavan",
+        "email": "sararaghavan930@gmail.com",
+        "phone": "+919781559830",
+        "department": "ECE",
+        "year": 3,
+        "cgpa": 6.15,
+        "attendance": 90
+    },
+    {
+        "studentId": "ST014",
+        "name": "Amol Purohit",
+        "email": "amolpurohit502@gmail.com",
+        "phone": "02559213550",
+        "department": "IT",
+        "year": 2,
+        "cgpa": 9.36,
+        "attendance": 92
+    },
+    {
+        "studentId": "ST015",
+        "name": "Eesha Nadkarni",
+        "email": "eeshanadkarni904@gmail.com",
+        "phone": "+915763572918",
+        "department": "IT",
+        "year": 2,
+        "cgpa": 5.87,
+        "attendance": 69
+    },
+    {
+        "studentId": "ST016",
+        "name": "Yuvraj Kibe",
+        "email": "yuvrajkibe200@gmail.com",
+        "phone": "+911458253183",
+        "department": "CE",
+        "year": 3,
+        "cgpa": 9.45,
+        "attendance": 60
+    },
+    {
+        "studentId": "ST017",
+        "name": "Viraj Doshi",
+        "email": "virajdoshi189@gmail.com",
+        "phone": "06499782262",
+        "department": "ECE",
+        "year": 3,
+        "cgpa": 9.19,
+        "attendance": 99
+    },
+    {
+        "studentId": "ST018",
+        "name": "Bina Tak",
+        "email": "binatak896@gmail.com",
+        "phone": "+914514970128",
+        "department": "IT",
+        "year": 4,
+        "cgpa": 5.52,
+        "attendance": 68
+    },
+    {
+        "studentId": "ST019",
+        "name": "Tripti Purohit",
+        "email": "triptipurohit131@gmail.com",
+        "phone": "7511267169",
+        "department": "ECE",
+        "year": 2,
+        "cgpa": 8.5,
+        "attendance": 66
+    },
+    {
+        "studentId": "ST020",
+        "name": "Triveni Borra",
+        "email": "triveniborra886@gmail.com",
+        "phone": "1898115353",
+        "department": "ECE",
+        "year": 3,
+        "cgpa": 9.97,
+        "attendance": 98
+    },
+    {
+        "studentId": "ST021",
+        "name": "Hema Patla",
+        "email": "hemapatla348@gmail.com",
+        "phone": "08854534508",
+        "department": "ME",
+        "year": 1,
+        "cgpa": 6.54,
+        "attendance": 63
+    },
+    {
+        "studentId": "ST022",
+        "name": "Gaurang Sangha",
+        "email": "gaurangsangha255@gmail.com",
+        "phone": "2928486920",
+        "department": "CE",
+        "year": 1,
+        "cgpa": 9.72,
+        "attendance": 85
+    },
+    {
+        "studentId": "ST023",
+        "name": "Andrew Dugar",
+        "email": "andrewdugar907@gmail.com",
+        "phone": "0706904565",
+        "department": "ME",
+        "year": 3,
+        "cgpa": 6.3,
+        "attendance": 93
+    },
+    {
+        "studentId": "ST024",
+        "name": "Neel Raval",
+        "email": "neelraval53@gmail.com",
+        "phone": "+917891253882",
+        "department": "ME",
+        "year": 3,
+        "cgpa": 7.6,
+        "attendance": 86
+    },
+    {
+        "studentId": "ST025",
+        "name": "Hredhaan Sagar",
+        "email": "hredhaansagar586@gmail.com",
+        "phone": "00616098228",
+        "department": "IT",
+        "year": 4,
+        "cgpa": 5.84,
+        "attendance": 73
+    },
+    {
+        "studentId": "ST026",
+        "name": "Dipta Bahl",
+        "email": "diptabahl989@gmail.com",
+        "phone": "4707360154",
+        "department": "CSE",
+        "year": 1,
+        "cgpa": 5.37,
+        "attendance": 100
+    },
+    {
+        "studentId": "ST027",
+        "name": "Neel Shukla",
+        "email": "neelshukla752@gmail.com",
+        "phone": "+912413043764",
+        "department": "CE",
+        "year": 1,
+        "cgpa": 9.68,
+        "attendance": 72
+    },
+    {
+        "studentId": "ST028",
+        "name": "Theodore Parmer",
+        "email": "theodoreparmer891@gmail.com",
+        "phone": "+919295708347",
+        "department": "IT",
+        "year": 4,
+        "cgpa": 5.56,
+        "attendance": 97
+    },
+    {
+        "studentId": "ST029",
+        "name": "Yashica Sur",
+        "email": "yashicasur283@gmail.com",
+        "phone": "4314350559",
+        "department": "IT",
+        "year": 2,
+        "cgpa": 6.39,
+        "attendance": 65
+    },
+    {
+        "studentId": "ST030",
+        "name": "Rachit Sidhu",
+        "email": "rachitsidhu347@gmail.com",
+        "phone": "03185596371",
+        "department": "IT",
+        "year": 1,
+        "cgpa": 7.83,
+        "attendance": 94
+    },
+    {
+        "studentId": "ST031",
+        "name": "Arjun Parmar",
+        "email": "arjunparmar654@gmail.com",
+        "phone": "6393251818",
+        "department": "ECE",
+        "year": 1,
+        "cgpa": 8.33,
+        "attendance": 69
+    },
+    {
+        "studentId": "ST032",
+        "name": "Dhruv Parmar",
+        "email": "dhruvparmar585@gmail.com",
+        "phone": "+910769306327",
+        "department": "ME",
+        "year": 2,
+        "cgpa": 9.32,
+        "attendance": 70
+    },
+    {
+        "studentId": "ST033",
+        "name": "Mugdha Singh",
+        "email": "mugdhasingh652@gmail.com",
+        "phone": "4059455094",
+        "department": "ME",
+        "year": 3,
+        "cgpa": 6.93,
+        "attendance": 69
+    },
+    {
+        "studentId": "ST034",
+        "name": "Gaurav Shanker",
+        "email": "gauravshanker777@gmail.com",
+        "phone": "+912097401680",
+        "department": "CE",
+        "year": 2,
+        "cgpa": 7.13,
+        "attendance": 84
+    },
+    {
+        "studentId": "ST035",
+        "name": "Daksha Cheema",
+        "email": "dakshacheema112@gmail.com",
+        "phone": "09176063795",
+        "department": "CE",
+        "year": 2,
+        "cgpa": 5.27,
+        "attendance": 93
+    },
+    {
+        "studentId": "ST036",
+        "name": "Henry Baral",
+        "email": "henrybaral112@gmail.com",
+        "phone": "05345955050",
+        "department": "IT",
+        "year": 3,
+        "cgpa": 9.46,
+        "attendance": 61
+    },
+    {
+        "studentId": "ST037",
+        "name": "Umang Wason",
+        "email": "umangwason811@gmail.com",
+        "phone": "6467393089",
+        "department": "ECE",
+        "year": 3,
+        "cgpa": 5.85,
+        "attendance": 80
+    },
+    {
+        "studentId": "ST038",
+        "name": "Brinda Sunder",
+        "email": "brindasunder99@gmail.com",
+        "phone": "0738427872",
+        "department": "CE",
+        "year": 2,
+        "cgpa": 7.15,
+        "attendance": 92
+    },
+    {
+        "studentId": "ST039",
+        "name": "Hitesh Iyengar",
+        "email": "hiteshiyengar690@gmail.com",
+        "phone": "+911708174256",
+        "department": "IT",
+        "year": 2,
+        "cgpa": 9.88,
+        "attendance": 88
+    },
+    {
+        "studentId": "ST040",
+        "name": "Dalbir Pant",
+        "email": "dalbirpant307@gmail.com",
+        "phone": "05323068930",
+        "department": "CSE",
+        "year": 3,
+        "cgpa": 5.46,
+        "attendance": 70
+    },
+    {
+        "studentId": "ST041",
+        "name": "Harsh Natt",
+        "email": "harshnatt327@gmail.com",
+        "phone": "09885102362",
+        "department": "CE",
+        "year": 4,
+        "cgpa": 5.56,
+        "attendance": 74
+    },
+    {
+        "studentId": "ST042",
+        "name": "Kashish Narang",
+        "email": "kashishnarang596@gmail.com",
+        "phone": "8557899338",
+        "department": "CSE",
+        "year": 1,
+        "cgpa": 6.79,
+        "attendance": 64
+    },
+    {
+        "studentId": "ST043",
+        "name": "Ganga Chokshi",
+        "email": "gangachokshi763@gmail.com",
+        "phone": "+916806693063",
+        "department": "ECE",
+        "year": 1,
+        "cgpa": 9.54,
+        "attendance": 90
+    },
+    {
+        "studentId": "ST044",
+        "name": "Ira Munshi",
+        "email": "iramunshi581@gmail.com",
+        "phone": "+915112899781",
+        "department": "CE",
+        "year": 4,
+        "cgpa": 7.99,
+        "attendance": 69
+    },
+    {
+        "studentId": "ST045",
+        "name": "Girik Badal",
+        "email": "girikbadal219@gmail.com",
+        "phone": "5251304709",
+        "department": "ECE",
+        "year": 3,
+        "cgpa": 8.12,
+        "attendance": 97
+    },
+    {
+        "studentId": "ST046",
+        "name": "Idika Dugar",
+        "email": "idikadugar876@gmail.com",
+        "phone": "05228735805",
+        "department": "IT",
+        "year": 1,
+        "cgpa": 5.5,
+        "attendance": 68
+    },
+    {
+        "studentId": "ST047",
+        "name": "Sai Vyas",
+        "email": "saivyas461@gmail.com",
+        "phone": "+914577601491",
+        "department": "CSE",
+        "year": 3,
+        "cgpa": 8.35,
+        "attendance": 68
+    },
+    {
+        "studentId": "ST048",
+        "name": "Udant Mitra",
+        "email": "udantmitra986@gmail.com",
+        "phone": "02299467464",
+        "department": "ECE",
+        "year": 1,
+        "cgpa": 5.95,
+        "attendance": 61
+    },
+    {
+        "studentId": "ST049",
+        "name": "Mitesh Ramaswamy",
+        "email": "miteshramaswamy379@gmail.com",
+        "phone": "6578375295",
+        "department": "CE",
+        "year": 2,
+        "cgpa": 8.51,
+        "attendance": 90
+    },
+    {
+        "studentId": "ST050",
+        "name": "Gayathri Dewan",
+        "email": "gayathridewan792@gmail.com",
+        "phone": "03517381866",
+        "department": "CE",
+        "year": 1,
+        "cgpa": 8.2,
+        "attendance": 88
+    },
+    {
+        "studentId": "ST051",
+        "name": "Chanchal Buch",
+        "email": "chanchalbuch868@gmail.com",
+        "phone": "+911229772130",
+        "department": "ME",
+        "year": 1,
+        "cgpa": 5.09,
+        "attendance": 63
+    },
+    {
+        "studentId": "ST052",
+        "name": "Kamala Naidu",
+        "email": "kamalanaidu145@gmail.com",
+        "phone": "1884479054",
+        "department": "CE",
+        "year": 4,
+        "cgpa": 9.1,
+        "attendance": 62
+    },
+    {
+        "studentId": "ST053",
+        "name": "Eshana Edwin",
+        "email": "eshanaedwin875@gmail.com",
+        "phone": "+914896799029",
+        "department": "CSE",
+        "year": 3,
+        "cgpa": 7.61,
+        "attendance": 95
+    },
+    {
+        "studentId": "ST054",
+        "name": "Onkar Bir",
+        "email": "onkarbir93@gmail.com",
+        "phone": "9266043184",
+        "department": "IT",
+        "year": 4,
+        "cgpa": 9.86,
+        "attendance": 82
+    },
+    {
+        "studentId": "ST055",
+        "name": "Urvi Agate",
+        "email": "urviagate481@gmail.com",
+        "phone": "+911739132129",
+        "department": "ECE",
+        "year": 3,
+        "cgpa": 5.97,
+        "attendance": 67
+    },
+    {
+        "studentId": "ST056",
+        "name": "Wishi Nath",
+        "email": "wishinath416@gmail.com",
+        "phone": "7951592336",
+        "department": "IT",
+        "year": 2,
+        "cgpa": 5.38,
+        "attendance": 95
+    },
+    {
+        "studentId": "ST057",
+        "name": "Mahika Warrior",
+        "email": "mahikawarrior286@gmail.com",
+        "phone": "+912351324935",
+        "department": "ECE",
+        "year": 4,
+        "cgpa": 7.66,
+        "attendance": 63
+    },
+    {
+        "studentId": "ST058",
+        "name": "Damyanti Sabharwal",
+        "email": "damyantisabharwal756@gmail.com",
+        "phone": "07301733753",
+        "department": "IT",
+        "year": 4,
+        "cgpa": 8.86,
+        "attendance": 89
+    },
+    {
+        "studentId": "ST059",
+        "name": "Aarush Barad",
+        "email": "aarushbarad3@gmail.com",
+        "phone": "04294720085",
+        "department": "CE",
+        "year": 4,
+        "cgpa": 7.95,
+        "attendance": 60
+    },
+    {
+        "studentId": "ST060",
+        "name": "Chanchal Char",
+        "email": "chanchalchar488@gmail.com",
+        "phone": "+911999064607",
+        "department": "ECE",
+        "year": 1,
+        "cgpa": 6.17,
+        "attendance": 88
+    },
+    {
+        "studentId": "ST061",
+        "name": "Amruta Kapur",
+        "email": "amrutakapur552@gmail.com",
+        "phone": "+910055616240",
+        "department": "IT",
+        "year": 3,
+        "cgpa": 6.56,
+        "attendance": 74
+    },
+    {
+        "studentId": "ST062",
+        "name": "Nandini Oommen",
+        "email": "nandinioommen652@gmail.com",
+        "phone": "3815469498",
+        "department": "ECE",
+        "year": 2,
+        "cgpa": 8.87,
+        "attendance": 72
+    },
+    {
+        "studentId": "ST063",
+        "name": "Fiyaz Pingle",
+        "email": "fiyazpingle882@gmail.com",
+        "phone": "2904556066",
+        "department": "IT",
+        "year": 2,
+        "cgpa": 7.29,
+        "attendance": 64
+    },
+    {
+        "studentId": "ST064",
+        "name": "Pranav Mammen",
+        "email": "pranavmammen582@gmail.com",
+        "phone": "00988180688",
+        "department": "CSE",
+        "year": 4,
+        "cgpa": 5.36,
+        "attendance": 68
+    },
+    {
+        "studentId": "ST065",
+        "name": "Mahika Parmar",
+        "email": "mahikaparmar780@gmail.com",
+        "phone": "1019315032",
+        "department": "IT",
+        "year": 1,
+        "cgpa": 6.62,
+        "attendance": 85
+    },
+    {
+        "studentId": "ST066",
+        "name": "Unnati Prakash",
+        "email": "unnatiprakash825@gmail.com",
+        "phone": "+914489373814",
+        "department": "CSE",
+        "year": 4,
+        "cgpa": 6.63,
+        "attendance": 66
+    },
+    {
+        "studentId": "ST067",
+        "name": "Andrew Prabhu",
+        "email": "andrewprabhu411@gmail.com",
+        "phone": "+910981312348",
+        "department": "ME",
+        "year": 2,
+        "cgpa": 5.95,
+        "attendance": 70
+    },
+    {
+        "studentId": "ST068",
+        "name": "Harinakshi Gole",
+        "email": "harinakshigole345@gmail.com",
+        "phone": "+918250163592",
+        "department": "ECE",
+        "year": 1,
+        "cgpa": 5.3,
+        "attendance": 67
+    },
+    {
+        "studentId": "ST069",
+        "name": "Charan Nath",
+        "email": "charannath427@gmail.com",
+        "phone": "+917504315831",
+        "department": "CSE",
+        "year": 1,
+        "cgpa": 5.43,
+        "attendance": 87
+    },
+    {
+        "studentId": "ST070",
+        "name": "Lakshit Singh",
+        "email": "lakshitsingh149@gmail.com",
+        "phone": "07500905917",
+        "department": "ME",
+        "year": 2,
+        "cgpa": 5.99,
+        "attendance": 99
+    },
+    {
+        "studentId": "ST071",
+        "name": "Alexander Ravi",
+        "email": "alexanderravi88@gmail.com",
+        "phone": "0599890675",
+        "department": "CE",
+        "year": 3,
+        "cgpa": 5.76,
+        "attendance": 65
+    },
+    {
+        "studentId": "ST072",
+        "name": "Ekavir Upadhyay",
+        "email": "ekavirupadhyay111@gmail.com",
+        "phone": "+918050514330",
+        "department": "CE",
+        "year": 1,
+        "cgpa": 6.93,
+        "attendance": 96
+    },
+    {
+        "studentId": "ST073",
+        "name": "Yatan Kaur",
+        "email": "yatankaur569@gmail.com",
+        "phone": "7445962167",
+        "department": "ECE",
+        "year": 4,
+        "cgpa": 5.28,
+        "attendance": 100
+    },
+    {
+        "studentId": "ST074",
+        "name": "Charita Salvi",
+        "email": "charitasalvi721@gmail.com",
+        "phone": "+910304207289",
+        "department": "ME",
+        "year": 3,
+        "cgpa": 7.28,
+        "attendance": 81
+    },
+    {
+        "studentId": "ST075",
+        "name": "Tanish Balan",
+        "email": "tanishbalan538@gmail.com",
+        "phone": "+911898341949",
+        "department": "ME",
+        "year": 4,
+        "cgpa": 7.51,
+        "attendance": 85
+    },
+    {
+        "studentId": "ST076",
+        "name": "Chandran Loke",
+        "email": "chandranloke843@gmail.com",
+        "phone": "04324266038",
+        "department": "CE",
+        "year": 3,
+        "cgpa": 6.04,
+        "attendance": 81
+    },
+    {
+        "studentId": "ST077",
+        "name": "Vedhika Banerjee",
+        "email": "vedhikabanerjee612@gmail.com",
+        "phone": "2623077530",
+        "department": "CSE",
+        "year": 4,
+        "cgpa": 5.43,
+        "attendance": 81
+    },
+    {
+        "studentId": "ST078",
+        "name": "Chandani Krishnan",
+        "email": "chandanikrishnan978@gmail.com",
+        "phone": "+910167099789",
+        "department": "CE",
+        "year": 4,
+        "cgpa": 7.83,
+        "attendance": 66
+    },
+    {
+        "studentId": "ST079",
+        "name": "Daksha Om",
+        "email": "dakshaom947@gmail.com",
+        "phone": "+912433435302",
+        "department": "CSE",
+        "year": 3,
+        "cgpa": 6.04,
+        "attendance": 68
+    },
+    {
+        "studentId": "ST080",
+        "name": "Tarak Parekh",
+        "email": "tarakparekh813@gmail.com",
+        "phone": "1669930468",
+        "department": "IT",
+        "year": 1,
+        "cgpa": 8.75,
+        "attendance": 88
+    },
+    {
+        "studentId": "ST081",
+        "name": "Omaja Buch",
+        "email": "omajabuch32@gmail.com",
+        "phone": "02453219486",
+        "department": "CE",
+        "year": 2,
+        "cgpa": 7.16,
+        "attendance": 76
+    },
+    {
+        "studentId": "ST082",
+        "name": "Ijaya Chawla",
+        "email": "ijayachawla471@gmail.com",
+        "phone": "+918486822202",
+        "department": "IT",
+        "year": 4,
+        "cgpa": 5.75,
+        "attendance": 100
+    },
+    {
+        "studentId": "ST083",
+        "name": "Neha Dora",
+        "email": "nehadora7@gmail.com",
+        "phone": "+916995188116",
+        "department": "ME",
+        "year": 3,
+        "cgpa": 9.02,
+        "attendance": 88
+    },
+    {
+        "studentId": "ST084",
+        "name": "Anmol Patel",
+        "email": "anmolpatel103@gmail.com",
+        "phone": "04863780013",
+        "department": "CE",
+        "year": 2,
+        "cgpa": 5.31,
+        "attendance": 94
+    },
+    {
+        "studentId": "ST085",
+        "name": "Oeshi Chandran",
+        "email": "oeshichandran816@gmail.com",
+        "phone": "+913948412779",
+        "department": "ECE",
+        "year": 4,
+        "cgpa": 6.01,
+        "attendance": 70
+    },
+    {
+        "studentId": "ST086",
+        "name": "Darsh Hayre",
+        "email": "darshhayre123@gmail.com",
+        "phone": "06661113502",
+        "department": "ME",
+        "year": 3,
+        "cgpa": 6.72,
+        "attendance": 94
+    },
+    {
+        "studentId": "ST087",
+        "name": "Jyoti Goda",
+        "email": "jyotigoda251@gmail.com",
+        "phone": "+910362226052",
+        "department": "CE",
+        "year": 4,
+        "cgpa": 8.35,
+        "attendance": 82
+    },
+    {
+        "studentId": "ST088",
+        "name": "Falan Madan",
+        "email": "falanmadan95@gmail.com",
+        "phone": "+911977721636",
+        "department": "ME",
+        "year": 4,
+        "cgpa": 6.44,
+        "attendance": 96
+    },
+    {
+        "studentId": "ST089",
+        "name": "Onkar Seshadri",
+        "email": "onkarseshadri511@gmail.com",
+        "phone": "+919372141246",
+        "department": "ME",
+        "year": 1,
+        "cgpa": 9.07,
+        "attendance": 67
+    },
+    {
+        "studentId": "ST090",
+        "name": "Eshana Johal",
+        "email": "eshanajohal386@gmail.com",
+        "phone": "07918220261",
+        "department": "ECE",
+        "year": 1,
+        "cgpa": 9.29,
+        "attendance": 86
+    },
+    {
+        "studentId": "ST091",
+        "name": "Saanvi Agrawal",
+        "email": "saanviagrawal184@gmail.com",
+        "phone": "+913493705303",
+        "department": "IT",
+        "year": 3,
+        "cgpa": 7.6,
+        "attendance": 100
+    },
+    {
+        "studentId": "ST092",
+        "name": "Zinal Nadig",
+        "email": "zinalnadig540@gmail.com",
+        "phone": "+914950368173",
+        "department": "CE",
+        "year": 4,
+        "cgpa": 8.39,
+        "attendance": 67
+    },
+    {
+        "studentId": "ST093",
+        "name": "Abdul Bajwa",
+        "email": "abdulbajwa630@gmail.com",
+        "phone": "8175720278",
+        "department": "ME",
+        "year": 4,
+        "cgpa": 5.64,
+        "attendance": 66
+    },
+    {
+        "studentId": "ST094",
+        "name": "Fiyaz Bhargava",
+        "email": "fiyazbhargava865@gmail.com",
+        "phone": "9849364811",
+        "department": "IT",
+        "year": 1,
+        "cgpa": 9.27,
+        "attendance": 89
+    },
+    {
+        "studentId": "ST095",
+        "name": "Aashi Tella",
+        "email": "aashitella558@gmail.com",
+        "phone": "+918574135772",
+        "department": "ECE",
+        "year": 1,
+        "cgpa": 8.9,
+        "attendance": 73
+    },
+    {
+        "studentId": "ST096",
+        "name": "Baljiwan Sibal",
+        "email": "baljiwansibal287@gmail.com",
+        "phone": "+911982708682",
+        "department": "CSE",
+        "year": 4,
+        "cgpa": 7.71,
+        "attendance": 65
+    },
+    {
+        "studentId": "ST097",
+        "name": "Damyanti Verma",
+        "email": "damyantiverma877@gmail.com",
+        "phone": "00191901377",
+        "department": "ECE",
+        "year": 2,
+        "cgpa": 6.77,
+        "attendance": 63
+    },
+    {
+        "studentId": "ST098",
+        "name": "Jhalak Dalal",
+        "email": "jhalakdalal14@gmail.com",
+        "phone": "+918384297016",
+        "department": "ME",
+        "year": 4,
+        "cgpa": 6.32,
+        "attendance": 74
+    },
+    {
+        "studentId": "ST099",
+        "name": "Tristan Palla",
+        "email": "tristanpalla451@gmail.com",
+        "phone": "4441899104",
+        "department": "IT",
+        "year": 2,
+        "cgpa": 8.1,
+        "attendance": 70
+    },
+    {
+        "studentId": "ST100",
+        "name": "Abhiram Bedi",
+        "email": "abhirambedi100@gmail.com",
+        "phone": "+910278217665",
+        "department": "ECE",
+        "year": 1,
+        "cgpa": 8.37,
+        "attendance": 89
+    }
+]
