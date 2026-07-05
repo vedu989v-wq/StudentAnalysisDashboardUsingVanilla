@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
@@ -17,17 +19,22 @@
             </div>
 
             <div class="department-filter">
-                <select class="Dept">
-                    <option value="">CSE</option>
-                    <option value="">IT</option>
-                    <option value="">ECE</option>
-                    <option value="">ME</option>
-                    <option value="">CE</option>
+                <select class="dept">
+                    <option value="ALL">ALL</option>
+                    <option value="CSE">CSE</option>
+                    <option value="IT">IT</option>
+                    <option value="ECE">ECE</option>
+                    <option value="ME">ME</option>
+                    <option value="CE">CE</option>
                 </select>
             </div>
  
             <div class="sort">
-                <select ></select>
+                <select >
+                    <option value="none">NONE</option>
+                    <option value="cgpa-asc">ASCENDING(CGPA)</option>
+                    <option value="cgpa-desc">DESCENDING(CGPA)</option>
+                </select>
             </div>
         </section>
 
