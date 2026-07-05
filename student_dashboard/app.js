@@ -15,7 +15,10 @@ async function loadStudents(){
     
 }
 
-function renderStuds(students){
+
+
+function setupSearch(students){
+
 const searchBox=document.querySelector('.search').querySelector('input')
 
 searchBox.addEventListener('input', ()=>{
@@ -25,18 +28,16 @@ searchBox.addEventListener('input', ()=>{
         return student.name.includes(keyword);
     })
 
-    return filteredStuds;
+    renderTable(filteredStuds);
 })
 }
 
-async function displayStudents(){
-const unfilteredstuds=await loadStudents();
-const students= renderStuds(unfilteredstuds);
 
-console.log(students)
-const t1body=document.querySelector('.student-table').querySelector('tbody');
-
-students.forEach(student=>{
+function renderTable(students){
+    const t1body=document.querySelector('.student-table').querySelector('tbody');
+    
+    t1body.innerHTML='';
+    students.forEach(student=>{
     const row=document.createElement('tr');
 
     row.innerHTML = `
@@ -53,5 +54,13 @@ students.forEach(student=>{
         t1body.appendChild(row);
 })
 }
+
+async function displayStudents(){
+const students=await loadStudents();
+
+renderTable(students);
+setupSearch(students);
+}
+
 
 displayStudents();
