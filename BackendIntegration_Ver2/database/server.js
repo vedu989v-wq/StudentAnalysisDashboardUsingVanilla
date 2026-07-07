@@ -7,7 +7,7 @@ const app=express();
 app.use(cors({
     origin: [
         "http://localhost:3000",
-        "https://student-dashboard.vercel.app"
+        "https://studentanalysisfrontend.vercel.app/"
     ]
 })); //explicit permission given by server.js to frontend application to access 
 app.use(express.json()); //parses table rows to JSON objects
