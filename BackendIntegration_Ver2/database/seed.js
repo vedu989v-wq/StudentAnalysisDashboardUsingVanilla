@@ -4,10 +4,9 @@ import pool from "./db.js";
 
 const students=[];
 
-
 //creating read stream, to load data chunk by chunk, not at a go, to prevent RAM overflow and Program Crashes
 
-fs.createReadStream("./data/students.csv")
+fs.createReadStream("students.csv")
 .pipe(csv()) //csv() -> csv-parser
 .on("data", (row)=>{ //converts csv row to javascript object
     students.push(row); //pushing row to student, as soon as pipeline transfer some data, pushing goes active
