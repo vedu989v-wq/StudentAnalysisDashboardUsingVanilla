@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Student Analytics</h1>
+        </header>
+
+        <section class="controls">
+            <div class="search">
+                <input type="text" placeholder="Search for Student Name">
+            </div>
+
+            <div class="department-filter">
+                <select class="dept">
+                    <option value="ALL">ALL</option>
+                    <option value="CSE">CSE</option>
+                    <option value="IT">IT</option>
+                    <option value="ECE">ECE</option>
+                    <option value="ME">ME</option>
+                    <option value="CE">CE</option>
+                </select>
+            </div>
+ 
+            <div class="sort">
+                <select >
+                    <option value="none">NONE</option>
+                    <option value="cgpa-asc">ASCENDING(CGPA)</option>
+                    <option value="cgpa-desc">DESCENDING(CGPA)</option>
+                </select>
+            </div>
+        </section>
+
+        <section class="statistics">
+            <div class="card"></div>
+            <div class="card"></div>
+            <div class="card"></div>
+            <div class="card"></div>
+        </section>
+
+        <section class="chart">
+            <h2>DepartMent-Wise Students</h2>
+            
+            <canvas id="department-chart"></canvas>
+        </section>
+
+        <section class="student-table">
+            <h2>Student Records</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Student ID</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Phone</th>
+                        <th>Dept</th>
+                        <th>Year</th>
+                        <th>CGPA</th>
+                        <th>Attendance</th>
+                    </tr>
+                </thead>
+                <tbody>
+                   
+                </tbody>
+            </table>
+        </section>
+    </div>
+<script src="app.js"></script>
+</body>
+
+</html>
