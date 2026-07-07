@@ -1,7 +1,7 @@
 async function loadStudents(){
     try{
         //Loading the JSON file
-        const response=await fetch('data/students.json');
+        const response=await fetch('https://studentanalysisbackend.vercel.app/');
         console.log(response)
         //convert JSON to JS object
         const students=await response.json();
