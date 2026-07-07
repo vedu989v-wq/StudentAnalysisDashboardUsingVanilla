@@ -7,7 +7,10 @@ dotenv.config();
 console.log(process.env.DATABASE_URL);
 //postgres connection tool
 const pool=new Pool({
-    connectionString: process.env.DATABASE_URL
+    connectionString: process.env.DATABASE_URL,
+    ssl:{
+        rejectUnauthorized:false
+    }
 });
 
 export default pool;
