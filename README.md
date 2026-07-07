@@ -102,3 +102,113 @@ _Add screenshots here._
 ## 📜 License
 
 This project is built for learning and portfolio purposes.
+
+---
+# 🚀 Student Analytics Dashboard (Version 2)
+
+Version 2 upgrades the project from a frontend-only application to a **full-stack Student Analytics Dashboard** by introducing a backend, database, REST APIs, and deployment.
+
+> Instead of fetching student records from a local JSON file, the frontend now communicates with an Express.js backend, which retrieves data from a PostgreSQL database.
+
+---
+
+## ✨ What's New
+
+- 🚀 Built an **Express.js** backend
+- 🗄️ Integrated **PostgreSQL** as the database
+- 🔌 Developed Express API to serve student data
+- 📡 Replaced local JSON fetching with API calls
+- 📊 Added interactive data visualizations using **Chart.js**
+- 📈 Expanded dashboard statistics
+  - Highest CGPA
+  - Lowest CGPA
+  - Average CGPA
+  - Total Students
+- 🐍 Generated a realistic student dataset using **Python Faker**
+- 📥 Imported the generated data into PostgreSQL using the **pg** package
+- ☁️ Deployed both frontend and backend on **Vercel**
+- 🌍 Configured CORS and environment variables for production deployment
+
+---
+
+## 🛠️ Additional Technologies Used
+
+### Backend
+
+- Node.js
+- Express.js
+- PostgreSQL
+- pg
+- dotenv
+- cors
+
+### Data Generation
+
+- Python
+- Faker
+
+### Visualization
+
+- Chart.js
+
+### Deployment
+
+- Vercel
+
+---
+
+## 🏗️ Updated Architecture
+
+```text
+Browser
+   │
+Fetch API
+   │
+   ▼
+Express.js API
+   │
+SQL Queries
+   │
+   ▼
+PostgreSQL Database
+   ▲
+   │
+Seed Script (Node.js + pg)
+   ▲
+   │
+CSV generated using Python Faker
+```
+
+---
+
+## 📡 API
+
+```http
+GET /
+```
+
+The frontend now fetches student data through the backend instead of directly accessing a local JSON file.
+
+---
+
+## 🧠 New Concepts Learned
+
+- Connecting Node.js with PostgreSQL
+- Writing SQL queries from JavaScript
+- Database seeding using the `pg` package
+- Environment variable management with `dotenv`
+- CORS configuration
+- Frontend-backend communication
+- Deploying a full-stack application on Vercel
+- Interactive data visualization with Chart.js
+
+---
+
+## 🔄 Evolution from Version 1
+
+- JSON file → PostgreSQL database
+- Frontend-only → Full-stack architecture
+- Local data fetching → Express API communication
+- Static dataset → Database-driven application
+- Basic dashboard → Interactive charts and enhanced analytics
+- Local project → Cloud deployment on Vercel
