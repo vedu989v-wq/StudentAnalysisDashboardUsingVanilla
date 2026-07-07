@@ -4,12 +4,7 @@ import pool from "./db.js";
 
 const app=express();
 
-app.use(cors({
-    origin: [
-        "http://localhost:3000",
-        "https://studentanalysisfrontend.vercel.app/"
-    ]
-})); //explicit permission given by server.js to frontend application to access 
+app.use(cors()); //explicit permission given by server.js to frontend application to access 
 app.use(express.json()); //parses table rows to JSON objects
 
 app.get("/", async(req, res)=>{
